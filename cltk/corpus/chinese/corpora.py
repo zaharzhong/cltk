@@ -36,6 +36,10 @@ CHINESE_CORPORA = [
      'name': 'chinese_text_cbeta_taf_xml'},
     {'location': 'remote',
      'type': 'text',
+     'name': 'chinese_text_ruzang',
+     'origin': 'https://github.com/zaharzhong/chinese_text_ruzang'},
+    {'location': 'remote',
+     'type': 'text',
      'origin': 'https://github.com/cltk/chinese_text_cbeta_txt.git',
      'name': 'chinese_text_cbeta_txt'}
 ]
